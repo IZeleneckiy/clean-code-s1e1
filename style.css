@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.hero .more-inf {
+.hero .hero__link {
   font-family: fantasy, cursive;
 }
 
@@ -40,7 +40,7 @@ body {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.new-task {
   display: flex;
 }
 
